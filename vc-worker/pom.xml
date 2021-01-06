@@ -79,7 +79,7 @@
 							<file>./libs/bcprov-ext-jdk15on-1.65.jar</file>
 							<groupId>org.bouncycastle</groupId>
 							<artifactId>bcprov-ext-jdk15on</artifactId>
-							<version>1.65</version>
+							<version>1.67</version>
 							<packaging>jar</packaging>
 							<generatePom>true</generatePom>
 						</configuration>
@@ -541,7 +541,7 @@
 		<dependency>
 		  <groupId>org.bouncycastle</groupId>
 		  <artifactId>bcprov-ext-jdk15on</artifactId>
-		  <version>1.65</version>
+		  <version>1.67</version>
 		</dependency>
 		<dependency>
 		  <groupId>org.bouncycastle</groupId>
